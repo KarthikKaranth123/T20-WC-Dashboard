@@ -1,4 +1,4 @@
-📌 Project Overview
+📌 #Project Overview
 
 This project is a Cricket Analytics Dashboard built to analyze player performance and help in optimal team selection.
 The dashboard is based on parameter scoping criteria to select the best XI players capable of scoring and defending consistently.
@@ -97,3 +97,11 @@ Data Processing: Python (pandas, NumPy)
 Visualization: matplotlib, seaborn (if used alongside BI tool)
 
 Dataset: Cricket player statistics (batting & bowling records)
+
+Future Scope
+
+Add dynamic team builder (auto-select XI based on filters).
+
+Integrate with live cricket APIs for real-time selection.
+
+Compare historical match outcomes with selected XI.
