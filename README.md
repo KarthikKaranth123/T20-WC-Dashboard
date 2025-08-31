@@ -76,8 +76,3 @@ The project answers the question:
 - Add **dynamic team builder** (auto-select XI based on filters).  
 - Integrate with **live cricket APIs** for real-time selection.  
 - Compare **historical match outcomes** with selected XI.  
-
----
-
-## 📄 License
-This project is licensed under the MIT License.  
